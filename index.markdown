@@ -12,7 +12,7 @@ layout: custom_layout
         <p>This is the home section. Here you can find everything about me and my work.</p>
     </div>
 	<div class="home-image">
-        <img src="/assets/images/image_test.jpg" alt="Presentation Image">
+        <img src="assets/images/image_test.jpg" alt="Presentation Image">
     </div>
 </div>
 
@@ -29,27 +29,27 @@ layout: custom_layout
 	 <div class="grid-container">
         <div class="grid-item">
             <h3>Project 1</h3>
-            <img src="/assets/images/image_test.jpg" alt="Imagen del Proyecto 1">
+            <img src="assets/images/image_test.jpg" alt="Imagen del Proyecto 1">
             <p>Descripción del Proyecto 1...</p>
         </div>
         <div class="grid-item">
             <h3>Project 2</h3>
-            <img src="/assets/images/image_test.jpg" alt="Imagen del Proyecto 2">
+            <img src="assets/images/image_test.jpg" alt="Imagen del Proyecto 2">
             <p>Descripción del Proyecto 2...</p>
         </div>
         <div class="grid-item">
             <h3>Project 3</h3>
-            <img src="/assets/images/image_test.jpg" alt="Imagen del Proyecto 3">
+            <img src="assets/images/image_test.jpg" alt="Imagen del Proyecto 3">
             <p>Descripción del Proyecto 3...</p>
         </div>
         <div class="grid-item">
             <h3>Project 4</h3>
-            <img src="/assets/images/image_test.jpg" alt="Imagen del Proyecto 4">
+            <img src="assets/images/image_test.jpg" alt="Imagen del Proyecto 4">
             <p>Descripción del Proyecto 4...</p>
         </div>
         <div class="grid-item">
             <h3>Project 5</h3>
-            <img src="/assets/images/image_test.jpg" alt="Imagen del Proyecto 5">
+            <img src="assets/images/image_test.jpg" alt="Imagen del Proyecto 5">
             <p>Descripción del Proyecto 5...</p>
         </div>
     </div>
@@ -75,28 +75,28 @@ This is my second project. It's a mobile game I developed with Unity3D.
 	<div class="grid-container">
         <div class="grid-item">
             <h3>Project 1</h3>
-            <img src="/assets/images/image_test.jpg" alt="Imagen del Proyecto 1">
+            <img src="assets/images/image_test.jpg" alt="Imagen del Proyecto 1">
             <p>Descripción del Proyecto 1...</p>
 			<a href="https://github.com/AtlasArg/u_c_rpg" target="_blank" class="project-link">View on GitHub</a>
         </div>
         <div class="grid-item">
             <h3>Project 2</h3>
-            <img src="/assets/images/image_test.jpg" alt="Imagen del Proyecto 2">
+            <img src="assets/images/image_test.jpg" alt="Imagen del Proyecto 2">
             <p>Descripción del Proyecto 2...</p>
         </div>
         <div class="grid-item">
             <h3>Project 3</h3>
-            <img src="/assets/images/image_test.jpg" alt="Imagen del Proyecto 3">
+            <img src="assets/images/image_test.jpg" alt="Imagen del Proyecto 3">
             <p>Descripción del Proyecto 3...</p>
         </div>
         <div class="grid-item">
             <h3>Project 4</h3>
-            <img src="/assets/images/image_test.jpg" alt="Imagen del Proyecto 4">
+            <img src="assets/images/image_test.jpg" alt="Imagen del Proyecto 4">
             <p>Descripción del Proyecto 4...</p>
         </div>
         <div class="grid-item">
             <h3>Project 5</h3>
-            <img src="/assets/images/image_test.jpg" alt="Imagen del Proyecto 5">
+            <img src="assets/images/image_test.jpg" alt="Imagen del Proyecto 5">
             <p>Descripción del Proyecto 5...</p>
         </div>
     </div>
