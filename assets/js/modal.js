@@ -7,10 +7,36 @@ document.addEventListener("DOMContentLoaded", function () {
   const projectImages = document.querySelectorAll(".grid-item img");
 
   projectImages.forEach(img => {
-    img.addEventListener("click", function () {
-      modalBody.innerHTML = `<img src="${img.src}" alt="${img.alt}" style="max-width:100%; max-height:100%;">`;
-      modal.style.display = "block";
-    });
+img.addEventListener("click", function () {
+  const project = {
+    title: img.dataset.title,
+    client: img.dataset.client,
+    genre: img.dataset.genre,
+    tech: img.dataset.tech,
+    duration: img.dataset.duration,
+    state: img.dataset.state,
+    links: JSON.parse(img.dataset.links || '[]')
+  };
+
+  modalBody.innerHTML = `
+    <div class="modal-info-card">
+      <h3>${project.title}</h3>
+      <ul>
+        <li><strong>Client:</strong> ${project.client}</li>
+        <li><strong>Genre:</strong> ${project.genre}</li>
+        <li><strong>Tech:</strong> ${project.tech}</li>
+        <li><strong>Duration:</strong> ${project.duration}</li>
+        <li><strong>State:</strong> ${project.state}</li>
+      </ul>
+      <div class="modal-links">
+        ${project.links.map(link => `<a href="${link.href}" target="_blank">${link.label}</a>`).join("<br>")}
+      </div>
+      <img src="${img.src}" alt="${img.alt}" style="max-width:100%; max-height:200px; margin-top: 1em;">
+    </div>
+  `;
+
+  modal.style.display = "block";
+});
   });
 
   closeButton.addEventListener("click", function () {

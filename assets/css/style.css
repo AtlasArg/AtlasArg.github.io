@@ -264,3 +264,93 @@ section {
 .close-button:hover {
   color: red;
 }
+
+.section-title {
+  color: white;
+  font-weight: bold;
+}
+
+.about-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 2rem;
+  margin-top: 3rem;
+  flex-wrap: wrap; /* Para responsive */
+}
+
+.about-left {
+  flex: 1;
+  min-width: 300px;
+}
+
+.about-right {
+  flex: 1;
+  min-width: 300px;
+}
+
+.about-right h3 {
+  color: white;
+  margin-bottom: 1rem;
+}
+
+.tech-columns {
+  display: flex;
+  justify-content: space-between;
+  gap: 1.5rem;
+  flex-wrap: wrap;
+}
+
+.tech-columns div {
+  min-width: 150px;
+}
+
+.tech-columns h4.section-title {
+  color: white;
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+}
+
+.tech-columns ul {
+  list-style-type: disc;
+  padding-left: 1.2rem;
+}
+
+.tech-columns ul li::marker {
+  color: #00ff90; /* or whatever green you like */
+}
+
+.tech-columns li {
+  margin-bottom: 0.3rem;
+}
+
+.modal-info-card h3 {
+  margin-top: 0;
+  color: #ffffff;
+}
+
+.modal-info-card ul {
+  list-style-type: disc;
+  padding-left: 1.5em;
+  color: #ffffff; /* color blanco para texto y bullets */
+}
+
+.modal-info-card li strong {
+  color: white; /* los labels como 'Client:' también en blanco */
+}
+
+.modal-info-card a {
+  color: #3399ff; /* azul para los links */
+  text-decoration: underline;
+}
+
+#modal ul {
+  list-style-type: disc;
+  color: white;
+  padding-left: 1.5em;
+}
+
+#modal a {
+  color: #3399ff; /* azul claro */
+  text-decoration: underline;
+}
