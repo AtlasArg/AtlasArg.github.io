@@ -184,35 +184,67 @@ layout: custom_layout
 				data-duration="Global Game Jam 2022"
 				data-state="Free to play"
 				data-links='[
-				  {"href": "https://onesixgames.itch.io/creation", "label": "Itch.io"},
+				  {"href": "https://onesixgames.itch.io/creation", "label": "Itch.io"}
 				]'
 			  >
-            <p>A small city builder developed under Global Game Jam 2022, worked on the gameplay</p>
+            <p>A small city builder developed under Global Game Jam 2022, worked on the gameplay and game design</p>
 			<p>Developed using Unity 3D</p>
         </div>
 		
 		<div class="grid-item">
             <h3>Greedy Merchants </h3>
-            <img src="{{ site.baseurl }}/assets/images/greedymerchants.png" alt="Imagen del Proyecto 5">
-            <p>Descripción del Proyecto 5...</p>
-			<a href="https://jlreymendez.itch.io/greedy-merchants" target="_blank" class="project-link">Check it on Itch.io</a>
+			<img src="{{ site.baseurl }}/assets/images/greedymerchants.png" alt="Greedy Merchants"
+				class="clickable-image"
+				data-title="Greedy Merchants"
+				data-client="Ludum Dare 40"
+				data-genre="a retro arcade game"
+				data-tech="C#, Unity 3D"
+				data-duration="Ludum dare 40"
+				data-state="Free to play"
+				data-links='[
+				  {"href": "https://jlreymendez.itch.io/greedy-merchants", "label": "Itch.io"}
+				]'
+			  >
+            <p>A retro arcade game developed for Ludum Dare 40, worked on the gameplay and game design</p>
+			<p>Developed using Unity 3D</p>
         </div>
 		
 		<div class="grid-item">
             <h3>Western Domination </h3>
-            <img src="{{ site.baseurl }}/assets/images/greedymerchants.png" alt="Imagen del Proyecto 5">
-            <p>Descripción del Proyecto 5...</p>
-			<a href="https://atlasarg.itch.io/westerndomination" target="_blank" class="project-link">Check it on Itch.io</a>
+           		<img src="{{ site.baseurl }}/assets/images/western.png" alt="Western Domination"
+				class="clickable-image"
+				data-title="Western Domination"
+				data-client=""
+				data-genre="Action game"
+				data-tech="C++, Unreal Engine 5"
+				data-duration="Synty Game jam 2025"
+				data-state="Free to play"
+				data-links='[
+				  {"href": "https://atlasarg.itch.io/westerndomination", "label": "Itch.io"}
+				]'
+			  >
+            <p>An action game developed for Synty Game Jam 2025, worked on the gameplay and game design</p>
+			<p>Developed using Unreal 5</p>
         </div>
 		
 		<div class="grid-item">
             <h3>Mine cart Madness </h3>
-            <img src="{{ site.baseurl }}/assets/images/greedymerchants.png" alt="Imagen del Proyecto 5">
-            <p>Descripción del Proyecto 5...</p>
-			<a href="https://ivan-auteville.itch.io/mine-cart-madness" target="_blank" class="project-link">Check it on Itch.io</a>
+			<img src="{{ site.baseurl }}/assets/images/minecart.png" alt="Mine Cart"
+				class="clickable-image"
+				data-title="Mine Cart Madness"
+				data-client=""
+				data-genre="Action game"
+				data-tech="C++, Unreal Engine 5"
+				data-duration="GMTK Game Jam 2025"
+				data-state="Free to play"
+				data-links='[
+				  {"href": "https://ivan-auteville.itch.io/mine-cart-madness", "label": "Itch.io"}
+				]'
+			  >
+            <p>An action game developed for GMTK Game Jam 2025, worked on the gameplay and game design</p>
+			<p>Developed using Unreal 5</p>
         </div>
     </div>	
-	
 </section>
 
 <section class="section-container" id="contact">
