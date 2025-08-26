@@ -73,7 +73,7 @@ layout: custom_layout
 
 <section class="section-container" id="projects">
     <h2>Projects</h2>
-	<p> Some of the game projects I've worked on</p>
+	<p> This are some of the games and projects I had the chance to work on during my carrer. There are more!</p>
 	 <div class="grid-container">
         <div class="grid-item">
 			<h3>Star Trek: Infinite </h3>
@@ -94,87 +94,125 @@ layout: custom_layout
 				]'
 			  >
             <p>Worked on several gameplay mechanics for Star Trek infinte using Paradox Engine. </p>
-			<p>Developed using c++. </p>
-			<a href="https://store.steampowered.com/app/1622900/Star_Trek_Infinite/" target="_blank" class="project-link">Check on Steam</a>
+			<p>Developed using c++ and Paradox Engine </p>
         </div>
         <div class="grid-item">
 			<h3>Tomorrow Falls </h3>
-            <img src="{{ site.baseurl }}/assets/images/tomorrowfalls.jpg" alt="Tomorrow Falls">
-		    <p>Worked on gameplay mechanics and UI for this great ongoing game</p>
-			<a href="https://store.steampowered.com/app/2023130/Tomorrow_Falls/" target="_blank" class="project-link">Check on Steam</a>
+            <img src="{{ site.baseurl }}/assets/images/tomorrowfalls.jpg" alt="Tomorrow Falls"
+				class="clickable-image"
+				data-title="Tomorrow Falls"
+				data-client="DPS Games, Wargaming, MPG"
+				data-genre="Action / Combat"
+				data-tech="C++, Blueprints, Unreal Engine 4"
+				data-duration="Worked for almost a year"
+				data-state="Currently Cancelated"
+				data-links='[
+				  {"href": "https://store.steampowered.com/app/2023130/Tomorrow_Falls/", "label": "Steam"},
+				  {"href": "https://dpsgames.com/", "label": "DPS Games"},
+				  {"href": "https://www.wargaming.net/en", "label": "Wargaming"},
+				  {"href": "https://www.themultiplayergroup.com/", "label": "The Multiplayer group"}
+				]'
+			  >
+		    <p>Worked on multiplayer gameplay mechanics and UI systems.</p>
+			<p>Developed using C++, Blueprints and Unreal Engine 4</p>
         </div>
         <div class="grid-item">
 			<h3>Seedworld</h3>
-            <img src="{{ site.baseurl }}/assets/images/seedworld.jpg" alt="Imagen del Proyecto 3">
-            <p>A Multiplayer Shooter Game implemented mostly on C++ </p>
-			<a href="https://seedworld.io/" target="_blank" class="project-link">Check it</a>
+            <img src="{{ site.baseurl }}/assets/images/seedworld.jpg" alt="Seedworld"
+				class="clickable-image"
+				data-title="Seedworld"
+				data-client="Seedify, Seedworld"
+				data-genre=" Metaverse with a persistent real economy"
+				data-tech="C++, Blueprints, Unreal Engine 5"
+				data-duration="Worked for almost a year"
+				data-state="Under development"
+				data-links='[
+				  {"href": "https://store.steampowered.com/app/2023130/Tomorrow_Falls/", "label": "Steam"},
+				  {"href": "https://seedify.fund/", "label": "Seedify"},
+				  {"href": "https://seedworld.io/", "label": "Seedworld"},
+				  {"href": "https://seedworldofficial.substack.com/", "label": "Seedworld dev updates"},
+				  {"href": "https://www.youtube.com/@SeedworldMetaverse", "label": "Youtube channel"}
+				]'
+			  >
+            <p>Worked on multiplayer gameplay mechanics, prototypes and UI systems</p>
+			<p>Developed using C++, Blueprints and Unreal Engine 5</p>
         </div>
     </div>
-	 <h2>Personal Projects</h2>
-	 <p> This are my personal projects I work on my free time </p>
-	 <div class="grid-container">
-        <div class="grid-item">
-            <h3>UE5 - Gameplay Ability System </h3>
-            <img src="{{ site.baseurl }}/assets/images/image_test.jpg" alt="Imagen del Proyecto 4">
-            <p>An ARPG implemented with GAS in UE5. (In progress) </p>
-			<a href="https://github.com/AtlasArg/Gameplay_Ability_System_Course" target="_blank" class="project-link">Check it on Github</a>
-        </div>
-        <div class="grid-item">
-            <h3>Combat System for RPG in Unity 3D </h3>
-            <img src="{{ site.baseurl }}/assets/images/image_test.jpg" alt="Imagen del Proyecto 5">
-            <p>Descripción del Proyecto 5...</p>
-			<a href="https://github.com/AtlasArg/u_c_rpg" target="_blank" class="project-link">Check it on Github</a>
-        </div>
-		<div class="grid-item">
-            <h3>Combat System for RPG in Unity 3D </h3>
-            <img src="{{ site.baseurl }}/assets/images/image_test.jpg" alt="Imagen del Proyecto 5">
-            <p>Descripción del Proyecto 5...</p>
-		</div>
+</section>
+
+<section class="section-container" id="courses">
+  <h2>Personal Projects and Courses</h2>
+  <p>
+    This section includes personal proyects I´m currently working on, courses I´m currently taking and some that I´ve already finished
+  </p>
+
+  <div class="grid-container">
+    <div class="grid-item">
+      <h3>UE5 - Gameplay Ability System</h3>
+      <img src="{{ site.baseurl }}/assets/images/image_test.jpg" alt="Imagen del Proyecto 4">
+      <p>An ARPG implemented with GAS in UE5. (In progress)</p>
+      <a href="https://github.com/AtlasArg/Gameplay_Ability_System_Course" target="_blank" class="project-link">Check it on Github</a>
     </div>
-	
+
+    <div class="grid-item">
+      <h3>Combat System for RPG in Unity 3D</h3>
+      <img src="{{ site.baseurl }}/assets/images/image_test.jpg" alt="Imagen del Proyecto 5">
+      <p>Descripción del Proyecto 5...</p>
+      <a href="https://github.com/AtlasArg/u_c_rpg" target="_blank" class="project-link">Check it on Github</a>
+    </div>
+
+    <div class="grid-item">
+      <h3>Combat System for RPG in Unity 3D</h3>
+      <img src="{{ site.baseurl }}/assets/images/image_test.jpg" alt="Imagen del Proyecto 5">
+      <p>Descripción del Proyecto 5...</p>
+    </div>
+  </div>
+</section>
+
+<section class="section-container" id="jams">
 	<h2>Jam Games</h2>
-	<p> Some of the game jams I've participated </p>
+	<p> This section covers the game jams I've participated during the years</p>
 	 <div class="grid-container">
 		<div class="grid-item">
             <h3>Creation </h3>
-            <img src="{{ site.baseurl }}/assets/images/creation.jpg" alt="Imagen del Proyecto 5">
-            <p>Descripción del Proyecto 5...</p>
-			<a href="https://onesixgames.itch.io/creation" target="_blank" class="project-link">Check it on Itch.io</a>
+			 <img src="{{ site.baseurl }}/assets/images/creation.jpg" alt="Creation"
+				class="clickable-image"
+				data-title="Creation"
+				data-client="Global Game Jam 2022"
+				data-genre="A small city builder"
+				data-tech="C#, Unity 3D"
+				data-duration="Global Game Jam 2022"
+				data-state="Free to play"
+				data-links='[
+				  {"href": "https://onesixgames.itch.io/creation", "label": "Itch.io"},
+				]'
+			  >
+            <p>A small city builder developed under Global Game Jam 2022, worked on the gameplay</p>
+			<p>Developed using Unity 3D</p>
         </div>
+		
 		<div class="grid-item">
             <h3>Greedy Merchants </h3>
             <img src="{{ site.baseurl }}/assets/images/greedymerchants.png" alt="Imagen del Proyecto 5">
             <p>Descripción del Proyecto 5...</p>
 			<a href="https://jlreymendez.itch.io/greedy-merchants" target="_blank" class="project-link">Check it on Itch.io</a>
         </div>
+		
+		<div class="grid-item">
+            <h3>Western Domination </h3>
+            <img src="{{ site.baseurl }}/assets/images/greedymerchants.png" alt="Imagen del Proyecto 5">
+            <p>Descripción del Proyecto 5...</p>
+			<a href="https://atlasarg.itch.io/westerndomination" target="_blank" class="project-link">Check it on Itch.io</a>
+        </div>
+		
+		<div class="grid-item">
+            <h3>Mine cart Madness </h3>
+            <img src="{{ site.baseurl }}/assets/images/greedymerchants.png" alt="Imagen del Proyecto 5">
+            <p>Descripción del Proyecto 5...</p>
+			<a href="https://ivan-auteville.itch.io/mine-cart-madness" target="_blank" class="project-link">Check it on Itch.io</a>
+        </div>
     </div>	
 	
-</section>
-
-<section class="section-container" id="courses">
-    <h2>Courses</h2>
-    <p>This are some of the online courses I've been doing: </p>
-		
-	<div class="grid-container">
-        <div class="grid-item">
-            <h3>UE5 - Gameplay Ability System </h3>
-            <img src="{{ site.baseurl }}/assets/images/image_test.jpg" alt="Imagen del Proyecto 4">
-            <p>An ARPG implemented with GAS in UE5. (In progress) </p>
-			<a href="https://github.com/AtlasArg/Gameplay_Ability_System_Course" target="_blank" class="project-link">Check it on Github</a>
-        </div>
-        <div class="grid-item">
-            <h3>Combat System for RPG in Unity 3D </h3>
-            <img src="{{ site.baseurl }}/assets/images/image_test.jpg" alt="Imagen del Proyecto 5">
-            <p>Descripción del Proyecto 5...</p>
-			<a href="https://github.com/AtlasArg/u_c_rpg" target="_blank" class="project-link">Check it on Github</a>
-        </div>
-        <div class="grid-item">
-            <h3>Professional Game Development in C++ and Unreal Engine </h3>
-            <img src="{{ site.baseurl }}/assets/images/image_test.jpg" alt="Imagen del Proyecto 5">
-            <p>Descripción del Proyecto 5...</p>
-			<a href="https://github.com/AtlasArg/u_c_rpg" target="_blank" class="project-link">Check it on Github</a>
-        </div>
-    </div>
 </section>
 
 <section class="section-container" id="contact">
