@@ -148,23 +148,61 @@ layout: custom_layout
 
   <div class="grid-container">
     <div class="grid-item">
-      <h3>UE5 - Gameplay Ability System</h3>
-      <img src="{{ site.baseurl }}/assets/images/image_test.jpg" alt="Imagen del Proyecto 4">
-      <p>An ARPG implemented with GAS in UE5. (In progress)</p>
-      <a href="https://github.com/AtlasArg/Gameplay_Ability_System_Course" target="_blank" class="project-link">Check it on Github</a>
+      <h3>UE5 Gameplay Ability System</h3>
+	<img src="{{ site.baseurl }}/assets/images/rpg.png" alt="Top down RPG with GAS"
+				class="clickable-image"
+				data-title="Top down RPG"
+				data-client="udemy"
+				data-genre="Action RPG"
+				data-tech="C++, Blueprints, Unreal Engine 5"
+				data-duration="428 classes, 105 hours"
+				data-state="In progress"
+				data-links='[
+				  {"href": "https://github.com/AtlasArg/Gameplay_Ability_System_Course", "label": "Github},
+				  {"href": "https://www.udemy.com/course/unreal-engine-5-gas-top-down-rpg/", "label": "Course Link"}
+				]'
+			  >
+        <p>Creating an ARPG from scratch, learning and understanding Unreal's GAS system</p>
+		<p>Developed using C++, Blueprints and Unreal Engine 5</p>
     </div>
 
     <div class="grid-item">
       <h3>Combat System for RPG in Unity 3D</h3>
-      <img src="{{ site.baseurl }}/assets/images/image_test.jpg" alt="Imagen del Proyecto 5">
-      <p>Descripción del Proyecto 5...</p>
-      <a href="https://github.com/AtlasArg/u_c_rpg" target="_blank" class="project-link">Check it on Github</a>
+	  
+	   <img src="{{ site.baseurl }}/assets/images/UnityRPG.png" alt="Unity Combat System"
+				class="clickable-image"
+				data-title="Unity 3D RPG Core Combat Creator"
+				data-client="udemy"
+				data-genre="RPG Core Combat system"
+				data-tech="C#, Unity 3D"
+				data-duration="188 classes, 27 hours"
+				data-state="Done"
+				data-links='[
+				  {"href": "https://github.com/AtlasArg/u_c_rpg", "label": "Github"},
+				  {"href": "https://www.udemy.com/course/unityrpg/", "label": "Course Link"}
+				]'
+			  >
+        <p>Creating a combat core for an ARPG in Unity 3D</p>
+		<p>Developed using C# and Unity 3D</p>
     </div>
 
     <div class="grid-item">
-      <h3>Combat System for RPG in Unity 3D</h3>
-      <img src="{{ site.baseurl }}/assets/images/image_test.jpg" alt="Imagen del Proyecto 5">
-      <p>Descripción del Proyecto 5...</p>
+ 
+        <h3>Tom Looman's C++ Unreal Course</h3>
+	   <img src="{{ site.baseurl }}/assets/images/tomLooman.png" alt="Unreal c++ Course"
+				class="clickable-image"
+				data-title="Professional Game Development in C++ and Unreal Engine"
+				data-client="Tom Looman's page"
+				data-genre="RPG Core Combat system"
+				data-tech="C++,Blueprints,Unreal Engine"
+				data-duration="29 lessons"
+				data-state="Done"
+				data-links='[
+				  {"href": "https://courses.tomlooman.com/p/unrealengine-cpp?coupon_code=COMMUNITY15", "label": "Course Link"}
+				]'
+			  >
+        <p>Master Unreal Engine C++ Game Development with this university-grade course</p>
+		<p>Developed using C++, Blueprints and Unreal Engine 5</p>
     </div>
   </div>
 </section>
