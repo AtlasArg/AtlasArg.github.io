@@ -212,6 +212,24 @@ layout: custom_layout
 	<p> This section covers the game jams I've participated during the years</p>
 	 <div class="grid-container">
 		<div class="grid-item">
+            <h3>Green and Graves </h3>
+			 <img src="{{ site.baseurl }}/assets/images/GreedAndGraves.png" alt="Green and Graves"
+				class="clickable-image"
+				data-title="Greed and Graves"
+				data-client="GameDev.tv"
+				data-genre="Stealth"
+				data-tech="C++, Unreal Engine 5"
+				data-duration="October Jam 2025"
+				data-state="Free to play"
+				data-links='[
+				  {"href": "https://ivan-auteville.itch.io/greed-and-graves", "label": "Itch.io"}
+				]'
+			  >
+            <p>A stealth game developed under GameDev.tv October 2025 jam, worked on the enemies AI, game design and sound</p>
+			<p>Developed using Unreal 5</p>
+        </div>
+	 
+		<div class="grid-item">
             <h3>Creation </h3>
 			 <img src="{{ site.baseurl }}/assets/images/creation.jpg" alt="Creation"
 				class="clickable-image"
