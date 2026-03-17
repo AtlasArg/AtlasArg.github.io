@@ -1,29 +1,71 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2025-03-17 11:01:11 -0300
-categories: jekyll update
+title: "Devlog #01 — First Playtest"
+date: 2026-03-06
+tags: [devlog, gamedev]
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-Jekyll requires blog post files to be named according to the following format:
+## 🎯 What I worked on
 
-`YEAR-MONTH-DAY-title.MARKUP`
+Brief description of what I worked on today.
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Examples:
+- Implemented enemy AI
+- Tested the new dungeon layout
+- Experimented with lighting in the mine
 
-Jekyll also offers powerful support for code snippets:
+---
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+## ⚠️ The problem
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+Describe the main issue or challenge.
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Example:
+
+The enemy AI was getting stuck when trying to reach the player through narrow corridors.
+
+---
+
+## 🧪 What I tried
+
+List things you experimented with.
+
+- Adjusted the NavMesh
+- Increased agent radius
+- Changed pathfinding settings
+
+---
+
+## 💡 What happened
+
+Explain the result.
+
+Did it work?  
+Did it fail?  
+Unexpected results?
+
+Example:
+
+Reducing the agent radius solved most cases, but enemies now clip slightly through walls.
+
+---
+
+## 🧠 What I learned
+
+This is the **most interesting part for readers**.
+
+Example:
+
+Even small changes in navigation parameters can drastically change gameplay feel.
+
+---
+
+## ⏭️ Next step
+
+What you'll do next.
+
+Example:
+
+- Fix wall clipping
+- Add attack animations
+- Run another playtest

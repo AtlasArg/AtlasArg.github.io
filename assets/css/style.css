@@ -354,3 +354,24 @@ section {
   color: #3399ff; /* azul claro */
   text-decoration: underline;
 }
+
+.blog-post {
+  max-width: 700px;
+  margin: auto;
+  padding: 20px;
+}
+
+.post-meta {
+  color: #777;
+  font-size: 0.9rem;
+}
+
+.post-tags {
+  margin-top: 10px;
+}
+
+.tag {
+  color: #666;
+  margin-right: 8px;
+  font-size: 0.85rem;
+}
