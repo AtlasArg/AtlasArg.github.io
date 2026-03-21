@@ -6,55 +6,30 @@ categories: devlog
 tags: [indie, gamedev, reflection]
 ---
 
-I've been working in software for more than fourteen years and, during my career, I have struggled with projects that had no architecture at all, but also with projects that had an overly complex one.
+I'm not going to reinvent the wheel or give you an idea that will illuminate your path with this post. In fact, I could just end it like this: I used the basics — the old pen, pencil, and paper approach.
 
-I've always believed that a clean and solid architecture is the correct way to structure a software project — not only to keep it organized, but also to make it easier to maintain over time.
+But let me tell you why I went this way.
 
-At least, that's what the books say.
+First of all — and maybe the most important thing here — when I decided to create a puzzle game, I put one thing on the table: the small amount of time I had to work on the project. Why does this matter?
 
-But I'm not going to start a big discussion about software architecture here. Instead, I just want to talk about what helped me this time.
+Because of my daily schedule, I needed to find extra time to work on the game. And level design felt like the right fit. I thought: *"I just need some paper and a pencil, and I can sketch ideas while I wait for my kids during their activities."*
 
-For this project, I took a different approach.
+And that’s exactly what I did.
 
-My initial thought was simple:
+I started taking notes in my car and, whenever I had the chance, I would sketch ideas while waiting.  
+Was this the best way to work? Probably not.  
+Did it work for me? I think so. It saved me time and kept me motivated.
 
-> "There's no time for architecture."
+**In the end, doing 1% of the game every day is much better than doing 0%.**
+
+There was also another important advantage. Since I was making a small puzzle game, I could actually *playtest* the levels on paper. So it wasn’t just about sketching ideas in my spare time — I was also validating them early.
+
+For me, that was a **huge win**.
+
+I know this is just a small game, but going back to the idea of expectations we talked about before, I wanted to treat it seriously — as if it were a bigger project.
 
 Why?
 
-Because in game development — especially during the prototype phase — **failing fast is king**.
+Because building a routine is one of the main goals of this journey.
 
-But there was another reason as well.
-
-In many of my previous prototypes I spent a lot of time designing complex systems and thinking about how to structure the project properly from the beginning. Once again, the real problem was time — or rather, my lack of it (as I mentioned in the first post).
-
-Why spend hours designing systems for something that might never see the light of day?
-
-Why not just try to **make it work first**, see if the idea is fun, and only then think about organizing things better?
-
-Of course, I know what that means.
-
-Spaghetti code will appear faster than a monkey eating a banana.
-
-But in this case, that’s not really a problem.
-
-This is a small game. Something that probably won’t grow much bigger in the future. And if, for some unexpected reason, it does… well, then there will be time to refactor things later (and rewrite all the ugly code).
-
-So in the end, why didn't I spend too much time designing a proper architecture?
-
-- I prefer to spend the small amount of time I have creating **levels** (which is a whole different topic).
-- This is a **short game**. I just need to make it playable.
-- It's **single-player** and definitely **not a game as a service**.
-- And most importantly: **I really want to release something online and finish a first version.**
-
-Time goes by quickly, and I already have other — more complex — ideas waiting in line.
-
-In the end, my goal with this project is simple:
-
-**Finish it.**
-
-- Not make it perfect.
-- Not make it scalable.
-- Just finish it.
-
-Because finishing a small game teaches you more than designing the perfect architecture for a game that never ships.
+But let’s dive deeper into that in the next post.
