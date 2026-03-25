@@ -1,70 +1,102 @@
 ---
 layout: post
-title: "One hour tasks - atomic tasks to improve efficiency in small periods"
+title: "One-hour tasks — atomic tasks to improve efficiency in small time slots"
 date: 2026-02-18
 categories: notes
 tags: [gamedev, notes]
 ---
 
-## Context
+## A bit of context
 
-What made me think about this topic?
+Trying to work on my personal game projects over the years while struggling with my daily routine has been a real challenge for me.
 
-Example:
-Recently I was reading discussions about crunch in game development and it made me reflect on how common it still is in the industry.
+I’ve tried different approaches — from just working on whatever I felt like each day, to planning ahead and prioritizing tasks. But regardless of the approach, I wasn’t getting the results I expected.
+
+I have a full-time job, two beautiful daughters, and my wife works in the afternoons until late at night. So most things related to my kids depend on me.
+
+Does this sound familiar to you?  
+Do you have a similar situation in your daily life?
+
+If so, maybe the next idea can help.
 
 ---
 
 ## My perspective
 
-Explain your position or feeling about the topic.
+How am I supposed to finish a task estimated at 8–10 hours if I can barely work 1 or 2 hours per day on my game?
 
-You don't need to sound definitive. It's okay to explore your thoughts.
+Yes, I know what you might say: *"Just work one or two hours today, then tomorrow, then the next day."*  
+Sounds ideal, right?
 
-Example:
+But at least for me, the problem is this: days go by, and I’m still stuck on the same task.
 
-I don't believe crunch is inherently necessary to ship great games. In many cases it feels like a symptom of poor planning or unrealistic expectations.
+**You never feel a sense of completion.**
+
+And after a couple of weeks, that becomes frustrating.
+
+You see that your task list isn’t getting smaller, and you start feeling like the project will never be finished. Eventually… you just drop it.
 
 ---
 
-## Experiences that shaped this view
+## The idea
 
-Share personal experiences or observations.
+So what do I suggest?
 
-Example:
+Break every task into smaller ones — tasks that can be completed in one hour or less.
 
-During a game jam I noticed how easy it is for teams to slip into crunch mode even when the project is supposed to be fun.
+- Need to create a UI with multiple components? → One hour per component  
+- Implement character actions (move, jump, attack)? → One hour per action  
+
+Yes, I know — not everything can be perfectly split like this.  
+Some tasks are too small, others don’t make sense to divide further.
+
+That’s not the point.
+
+The goal is that, by the end of the day, you can say:
+
+> "I completed everything I planned today."
+
+Instead of:
+
+> "I still have a lot left to do."
+
+It’s basically about **hijacking your brain** to stay motivated.
+
+---
+
+## Experience
+
+For me, this has been a game changer over the last few months.
+
+Instead of focusing on what’s missing, I now focus on what’s already done.  
+That shift in perspective made a huge difference.
+
+Again, this is just what works for me — especially in situations where time is limited.
 
 ---
 
 ## Counterpoints
 
-Consider the other side.
+A fair counterpoint could be:
 
-Example:
+*"This sounds good, but isn’t it too much planning for small tasks?"*
 
-Some developers argue that short bursts of crunch can be part of creative work, especially when a team is passionate about a project.
+And yes — that can be true.
 
----
+But the planning doesn’t need to be complex.  
+You can just write a simple note on paper or in a text file:
 
-## Where I currently stand
+> "Today I will fix this one thing."
 
-Your current conclusion or open question.
+That’s enough.
 
-Example:
-
-For now I think sustainable development practices are essential if we want to build a healthier industry.
-
-But I'm still curious how small indie teams handle this balance.
+Keep those notes. Over time, you’ll start seeing how much you’ve accomplished.
 
 ---
 
-## Open question
+## Final thoughts
 
-Optional but powerful.
+As I said, this approach has helped me a lot.
 
-Invite reflection.
-
-Example:
-
-How do other developers deal with deadlines without falling into crunch?
+Maybe it’s just how I work, or what I personally need to stay motivated.  
+But if you’re struggling to make progress with limited time, this might help you too.
