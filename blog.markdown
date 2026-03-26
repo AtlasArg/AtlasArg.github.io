@@ -37,7 +37,7 @@ Here I document thoughts, progress and stories from game development.
 </ul>
 
 <h2>Postmortems</h2>
- work in progress
+ work in progress... coming soon!
 <ul>
 {% for post in site.categories.postmortem %}
 <li>

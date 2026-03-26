@@ -53,4 +53,9 @@ I was finally able to say:
 > It's not going to be a hit.  
 > But doing something is a lot better than having nothing done."
 
-And that is how I started this small game called **Balanced Dungeon**.
+And that is how I started this small game called **Balanced Dungeons**
+<div class="game-card">
+  <a href="https://atlasarg.itch.io/balanced-dungeons" target="_blank">
+    <img src="{{ '/assets/images/balanced-dungeon.png' | relative_url }}" alt="Balanced Dungeon">
+  </a>
+</div>
