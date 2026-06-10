@@ -158,7 +158,7 @@ layout: custom_layout
 				data-duration="428 classes, 105 hours"
 				data-state="In progress"
 				data-links='[
-				  {"href": "https://github.com/AtlasArg/Gameplay_Ability_System_Course", "label": "Github},
+				  {"href": "https://github.com/AtlasArg/Gameplay_Ability_System_Course", "label": "Github"},
 				  {"href": "https://www.udemy.com/course/unreal-engine-5-gas-top-down-rpg/", "label": "Course Link"}
 				]'
 			  >

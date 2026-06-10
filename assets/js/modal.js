@@ -31,7 +31,7 @@ img.addEventListener("click", function () {
       <div class="modal-links">
         ${project.links.map(link => `<a href="${link.href}" target="_blank">${link.label}</a>`).join("<br>")}
       </div>
-      <img src="${img.src}" alt="${img.alt}" style="max-width:100%; max-height:200px; margin-top: 1em;">
+      <img src="${img.src}" alt="${img.alt}" style="width:100%; aspect-ratio: 16/9; object-fit: cover; border-radius: 8px; margin-top: 1em;">
     </div>
   `;
 
