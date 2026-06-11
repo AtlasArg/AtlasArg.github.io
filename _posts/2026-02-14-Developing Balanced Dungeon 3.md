@@ -20,7 +20,9 @@ My initial thought was simple:
 
 > "There's no time for architecture."
 
-![Prototype architecture](/assets/images/explain.png)
+<div class="game-card">
+  <img src="{{ '/assets/images/explain.png' | relative_url }}" alt="Prototype architecture">
+</div>
 
 Why?
 

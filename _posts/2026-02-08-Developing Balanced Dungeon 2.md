@@ -25,7 +25,9 @@ The idea of the game? I wasn’t sure yet.
 I just wanted to find an asset pack that inspired me.
 
 That’s when I found this one:
-![Dungeon Asset Pack](/assets/images/dungeon_asset.png)
+<div class="game-card">
+  <img src="{{ '/assets/images/dungeon_asset.png' | relative_url }}" alt="Dungeon Asset Pack">
+</div>
 
 - [Dungeon Asset Pack](https://pixel-poem.itch.io/dungeon-assetpuck) 
 
