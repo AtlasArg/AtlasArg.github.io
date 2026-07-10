@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Developing Balanced Dungeon — Part 7: Back from the shadows"
-date: 2026-03-04
+date: 2026-07-10
 categories: devlog
 tags: [indie, gamedev, reflection]
 ---
