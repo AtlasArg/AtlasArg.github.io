@@ -172,7 +172,7 @@ layout: custom_layout
 				data-duration="a few months"
 				data-state="Under development. First version released on March 31, 2026."
 				data-links='[
-				  {"href": "https://atlasarg.itch.io/balanced-dungeons", "label": "Steam"}
+				  {"href": "https://atlasarg.itch.io/balanced-dungeons", "label": "Itch.io"}
 				]'
 			  >
             <p> Designed and developed the entire game from scratch, including its gameplay, mechanics, and core concept.</p>
