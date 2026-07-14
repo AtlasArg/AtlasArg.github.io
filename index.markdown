@@ -73,7 +73,7 @@ layout: custom_layout
 
 <section class="section-container" id="projects">
     <h2>Projects</h2>
-	<p> This are some of the games and projects I had the chance to work on during my carrer. There are more!</p>
+	<p> These are some of the games and projects I had the chance to work on during my carrer. There are more!</p>
 	 <div class="grid-container">
         <div class="grid-item">
 			<h3>Star Trek: Infinite </h3>
@@ -137,13 +137,54 @@ layout: custom_layout
             <p>Worked on multiplayer gameplay mechanics, prototypes and UI systems</p>
 			<p>Developed using C++, Blueprints and Unreal Engine 5</p>
         </div>
+		    <div class="grid-item">
+			<h3>Marvel Strike Force</h3>
+            <img src="{{ site.baseurl }}/assets/images/msf.jpg" alt="MSF"
+				class="clickable-image"
+				data-title="Marvel Strike Force"
+				data-client="Scopely"
+				data-genre=" Turn base strategy game"
+				data-tech="C#, Unity 3D, perfoce, typescript"
+				data-duration="Have been working there for more than a year now"
+				data-state="Release"
+				data-links='[
+				  {"href": "https://play.google.com/store/apps/details/MARVEL+Strike+Force:+Squad+RPG?id=com.foxnextgames.m3&hl=es_US", "label": "Google play"},
+				  {"href": "https://marvelstrikeforce.com/", "label": "Marvel Strike force"}
+				]'
+			  >
+            <p> Currently working on new features for the game and revamping existing features</p>
+			<p> Developed using C#, Unity 3D</p>
+        </div>
+    </div>
+	
+	<h2>Personal projects</h2>
+	<p> These are some of the games I've worked on by myself. There are more!</p>
+	 <div class="grid-container">
+        <div class="grid-item">
+			<h3>Balanced Dungeons </h3>
+            <img 
+				src="{{ site.baseurl }}/assets/images/balanced-dungeon.png" 
+				alt="Star Trek" 
+				class="clickable-image"
+				data-title="Balanced Dungeons"
+				data-genre="Puzzle"
+				data-tech="C#, Unity 3d"
+				data-duration="a few months"
+				data-state="Under development. First version released on March 31, 2026."
+				data-links='[
+				  {"href": "https://atlasarg.itch.io/balanced-dungeons", "label": "Steam"}
+				]'
+			  >
+            <p> Designed and developed the entire game from scratch, including its gameplay, mechanics, and core concept.</p>
+			<p> Developed using C# and Unity 3D </p>
+        </div>
     </div>
 </section>
 
 <section class="section-container" id="courses">
-  <h2>Personal Projects and Courses</h2>
+  <h2> Courses</h2>
   <p>
-    This section includes personal proyects I´m currently working on, courses I´m currently taking and some that I´ve already finished
+    This section includes courses I'm currently taking and some I've already completed.
   </p>
 
   <div class="grid-container">
@@ -209,7 +250,7 @@ layout: custom_layout
 
 <section class="section-container" id="jams">
 	<h2>Jam Games</h2>
-	<p> This section covers the game jams I've participated during the years</p>
+	<p> This section covers the game jams I've participated in over the years.</p>
 	 <div class="grid-container">
 		<div class="grid-item">
             <h3>Green and Graves </h3>
