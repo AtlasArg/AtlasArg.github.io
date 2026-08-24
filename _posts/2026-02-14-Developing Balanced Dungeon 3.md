@@ -3,6 +3,7 @@ layout: post
 title: "Developing Balanced Dungeon — Part 3: No time for a clean architecture"
 date: 2026-02-14
 categories: devlog
+series: balanced-dungeons
 tags: [indie, gamedev, reflection]
 ---
 

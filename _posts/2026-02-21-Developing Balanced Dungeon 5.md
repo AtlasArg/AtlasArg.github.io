@@ -3,6 +3,7 @@ layout: post
 title: "Developing Balanced Dungeon — Part 5: Building habits"
 date: 2026-02-21
 categories: devlog
+series: balanced-dungeons
 tags: [indie, gamedev, reflection]
 ---
 

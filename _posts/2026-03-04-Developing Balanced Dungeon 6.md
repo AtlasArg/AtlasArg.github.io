@@ -3,6 +3,7 @@ layout: post
 title: "Developing Balanced Dungeon — Part 6: Publish it, publish something"
 date: 2026-03-04
 categories: devlog
+series: balanced-dungeons
 tags: [indie, gamedev, reflection]
 ---
 

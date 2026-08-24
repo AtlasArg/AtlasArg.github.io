@@ -3,6 +3,7 @@ layout: post
 title: "Developing Balanced Dungeon — Part 2: A different approach"
 date: 2026-02-08
 categories: devlog
+series: balanced-dungeons
 tags: [indie, gamedev, reflection]
 ---
 

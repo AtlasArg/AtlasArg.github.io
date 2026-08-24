@@ -3,6 +3,7 @@ layout: post
 title: "Developing Balanced Dungeon — Part 4: Pen, pencil, papper and my approach for level design"
 date: 2026-02-16
 categories: devlog
+series: balanced-dungeons
 tags: [indie, gamedev, reflection]
 ---
 

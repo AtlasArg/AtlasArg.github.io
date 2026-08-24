@@ -12,14 +12,34 @@ Here I document thoughts, progress and stories from game development.
 
 <h2>Devlogs</h2>
 
+<h3>Balanced Dungeons</h3>
+
 <ul>
 {% for post in site.categories.devlog %}
-  <li>
-  <strong>
-    <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-  </strong><br>
-  <span class="post-meta">{{ post.date | date: "%B %d, %Y" }}</span>
-</li>
+  {% if post.series == "balanced-dungeons" %}
+    <li>
+      <strong>
+        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      </strong><br>
+      <span class="post-meta">{{ post.date | date: "%B %d, %Y" }}</span>
+    </li>
+  {% endif %}
+{% endfor %}
+</ul>
+
+
+<h3>Crusaders of the Isles</h3>
+
+<ul>
+{% for post in site.categories.devlog %}
+  {% if post.series == "crusaders-of-the-isles" %}
+    <li>
+      <strong>
+        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      </strong><br>
+      <span class="post-meta">{{ post.date | date: "%B %d, %Y" }}</span>
+    </li>
+  {% endif %}
 {% endfor %}
 </ul>
 

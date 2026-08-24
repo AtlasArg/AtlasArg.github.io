@@ -3,6 +3,7 @@ layout: post
 title: "Developing Balanced Dungeon — Part 1: A Matter of Expectations"
 date: 2026-02-05
 categories: devlog
+series: balanced-dungeons
 tags: [indie, gamedev, reflection]
 ---
 
