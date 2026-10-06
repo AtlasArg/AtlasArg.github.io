@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Developing Balanced Dungeons — Part 9: Mission Accomplished"
-date: 2026-09-12
+date: 2026-10-06
 categories: devlog
 series: balanced-dungeons
 tags: [indie, gamedev, reflection]
